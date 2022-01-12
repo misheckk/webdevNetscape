@@ -1,0 +1,23 @@
+body{
+   background-image: url("Images/car1.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+
+
+}
+
+p{
+    padding: 10px;
+    font-family: "Adobe Hebrew";
+    font-size: 20px;
+    font-style: oblique;
+    color: blue;
+}
+h1,h2{
+    text-align: center;
+    font-style: initial;
+    font-family: "Adobe Fan Heiti Std B";
+    font-size: 20px;
+    color: brown;
+}
